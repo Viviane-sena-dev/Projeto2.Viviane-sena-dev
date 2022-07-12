@@ -10,3 +10,4 @@ git checkout nome-da-branch
 git checkout -b "nome da branch de origem" "nome da nova branch"
 git merge "branch a receber merge"
 git pull
+git pull
