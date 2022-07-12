@@ -1,0 +1,8 @@
+1.git pull da branch principal
+2.gerar uma nova branch a partir da branch principal
+3.trabalhar e adicionar novas funcionalidade a nova branch que criou
+4.finalizar o trabalho na branch temporaria
+5.git cheockout na branch principal
+6.git pull
+7.mergiar unir o cod da branch temporario com a branch principal
+8.git push da branch principal
