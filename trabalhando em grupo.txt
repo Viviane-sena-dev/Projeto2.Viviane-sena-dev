@@ -1,0 +1,3 @@
+inicializa um novo repositorio
+adiciona arquvos atuais no proximo commit
+verificar o status atuais dos repositorios git

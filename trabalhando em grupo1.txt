@@ -1,0 +1,3 @@
+cria um novo commit com uma mensagem
+envia as atualizações para a nuvem na branch atualmente ativa
+permitir lista e ver qual branch esta ativa atualmente
