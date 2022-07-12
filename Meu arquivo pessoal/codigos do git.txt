@@ -1,3 +1,5 @@
+codigos para o git
+
 git init
 git add
 git status
